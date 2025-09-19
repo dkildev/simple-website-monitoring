@@ -8,3 +8,18 @@ timestamp,status,url,status_code,ok,total_time_ms,error_description
 "2025-09-19 16:22:04",UP,https://mgaiba.org.au,200,1,506,
 "2025-09-19 16:22:04",DOWN,https://digiteq.com.au,418,0,509,"HTTP 418 (I'm a Teapot)"
 "2025-09-19 16:22:04",UP,https://www.google.com,200,1,633,
+
+"2025-09-19 16:31:10",DOWN,https://digiteq.com.au,418,0,499,"HTTP 418 (I'm a Teapot)"
+"2025-09-19 16:31:10",DOWN,https://mgaiba.org.au,0,0,21642,"Operation timed out after 21642 milliseconds with 0 bytes received"
+"2025-09-19 16:31:10",DOWN,https://www.google.com,0,0,21638,"Operation timed out after 21637 milliseconds with 0 bytes received"
+"2025-09-19 16:31:10",DOWN,https://www.techinnovate.com.au,0,0,21637,"Operation timed out after 21637 milliseconds with 0 bytes received"
+
+"2025-09-19 16:34:55",UP,https://www.techinnovate.com.au,200,1,499,
+"2025-09-19 16:34:55",DOWN,https://digiteq.com.au,418,0,511,"HTTP 418 (I'm a Teapot)"
+"2025-09-19 16:34:55",UP,https://mgaiba.org.au,200,1,4829,
+"2025-09-19 16:34:55",UP,https://www.google.com,200,1,4823,
+
+"2025-09-19 16:35:33",UP,https://www.techinnovate.com.au,200,1,479,
+"2025-09-19 16:35:33",UP,https://mgaiba.org.au,200,1,487,
+"2025-09-19 16:35:33",DOWN,https://digiteq.com.au,418,0,491,"HTTP 418 (I'm a Teapot)"
+"2025-09-19 16:35:33",UP,https://www.google.com,200,1,4755,
