@@ -1,4 +1,10 @@
-timestamp,url,status_code,ok,total_time_ms,error
-"2025-09-19 15:48:28",https://www.techinnovate.com.au,200,1,444,
-"2025-09-19 15:48:28",https://mgaiba.org.au,200,1,486,
-"2025-09-19 15:48:28",https://www.google.com,200,1,709,
+timestamp,status,url,status_code,ok,total_time_ms,error_description
+"2025-09-19 16:21:54",UP,https://mgaiba.org.au,200,1,550,
+"2025-09-19 16:21:54",UP,https://www.techinnovate.com.au,200,1,550,
+"2025-09-19 16:21:54",DOWN,https://digiteq.com.au,418,0,551,"HTTP 418 (I'm a Teapot)"
+"2025-09-19 16:21:54",UP,https://www.google.com,200,1,670,
+
+"2025-09-19 16:22:04",UP,https://www.techinnovate.com.au,200,1,498,
+"2025-09-19 16:22:04",UP,https://mgaiba.org.au,200,1,506,
+"2025-09-19 16:22:04",DOWN,https://digiteq.com.au,418,0,509,"HTTP 418 (I'm a Teapot)"
+"2025-09-19 16:22:04",UP,https://www.google.com,200,1,633,

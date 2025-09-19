@@ -1,4 +1,5 @@
 📌 Description
+
 Website Monitor is a lightweight PHP script that checks whether a list of websites is online and responding correctly.
 The script uses PHP’s curl_multi functions to send multiple requests in parallel, making it fast and efficient even for many sites. It is framework-free and runs on any system with PHP installed (for example, XAMPP on Windows).
 
