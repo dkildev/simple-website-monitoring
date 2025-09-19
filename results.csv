@@ -1,25 +1,12 @@
-timestamp,status,url,status_code,ok,total_time_ms,error_description
-"2025-09-19 16:21:54",UP,https://mgaiba.org.au,200,1,550,
-"2025-09-19 16:21:54",UP,https://www.techinnovate.com.au,200,1,550,
-"2025-09-19 16:21:54",DOWN,https://digiteq.com.au,418,0,551,"HTTP 418 (I'm a Teapot)"
-"2025-09-19 16:21:54",UP,https://www.google.com,200,1,670,
-
-"2025-09-19 16:22:04",UP,https://www.techinnovate.com.au,200,1,498,
-"2025-09-19 16:22:04",UP,https://mgaiba.org.au,200,1,506,
-"2025-09-19 16:22:04",DOWN,https://digiteq.com.au,418,0,509,"HTTP 418 (I'm a Teapot)"
-"2025-09-19 16:22:04",UP,https://www.google.com,200,1,633,
-
-"2025-09-19 16:31:10",DOWN,https://digiteq.com.au,418,0,499,"HTTP 418 (I'm a Teapot)"
-"2025-09-19 16:31:10",DOWN,https://mgaiba.org.au,0,0,21642,"Operation timed out after 21642 milliseconds with 0 bytes received"
-"2025-09-19 16:31:10",DOWN,https://www.google.com,0,0,21638,"Operation timed out after 21637 milliseconds with 0 bytes received"
-"2025-09-19 16:31:10",DOWN,https://www.techinnovate.com.au,0,0,21637,"Operation timed out after 21637 milliseconds with 0 bytes received"
-
-"2025-09-19 16:34:55",UP,https://www.techinnovate.com.au,200,1,499,
-"2025-09-19 16:34:55",DOWN,https://digiteq.com.au,418,0,511,"HTTP 418 (I'm a Teapot)"
-"2025-09-19 16:34:55",UP,https://mgaiba.org.au,200,1,4829,
-"2025-09-19 16:34:55",UP,https://www.google.com,200,1,4823,
-
-"2025-09-19 16:35:33",UP,https://www.techinnovate.com.au,200,1,479,
-"2025-09-19 16:35:33",UP,https://mgaiba.org.au,200,1,487,
-"2025-09-19 16:35:33",DOWN,https://digiteq.com.au,418,0,491,"HTTP 418 (I'm a Teapot)"
-"2025-09-19 16:35:33",UP,https://www.google.com,200,1,4755,
+timestamp,status,url,status_code,ok,total_time_ms,error
+"2025-09-19 17:08:26",UP,https://clients.mgaiba.org.au/,418,1,437,
+"2025-09-19 17:08:26",UP,https://www.spectrumcoach.com.au/,418,1,443,
+"2025-09-19 17:08:26",UP,https://clients.spectrumcoach.com.au/,418,1,445,
+"2025-09-19 17:08:26",UP,https://technoguys.com.au/,418,1,451,
+"2025-09-19 17:08:26",UP,https://kingsfordlawyers.com.au/,418,1,453,
+"2025-09-19 17:08:26",UP,https://epgrealty.com.au/,418,1,457,
+"2025-09-19 17:08:26",UP,https://digiteq.com.au/,418,1,465,
+"2025-09-19 17:08:26",UP,https://www.techinnovate.com.au/,200,1,476,
+"2025-09-19 17:08:26",UP,https://mgaiba.org.au/,200,1,505,
+"2025-09-19 17:08:26",UP,https://www.celticclub.com.au/,200,1,559,
+"2025-09-19 17:08:26",DOWN,https://fakeurl.com.au/,0,0,5009,"Failed to connect to fakeurl.com.au port 443 after 5008 ms: Timeout was reached"
